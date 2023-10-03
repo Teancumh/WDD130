@@ -1,0 +1,33 @@
+/* * {
+    border: 1px solid;
+} */
+img {
+    max-width: 100%;
+}
+body {
+    font-size: 1.2em;
+}
+a:link, a:visited {
+    color: darkolivegreen;
+}
+a:hover {
+    color: purple;
+    text-decoration: none;
+}
+
+li {
+    background-color: coral;
+    display:inline-block;
+    width: 100px;
+    font-size: 1.2em;
+}
+.active {
+    color: whitesmoke;
+}
+.green {
+    color: green;
+}
+.banner {
+    width: 100%;
+    max-width: 90%;
+}

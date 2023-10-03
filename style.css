@@ -1,0 +1,47 @@
+
+body {
+    font-size: 1.5em;
+    margin:0; padding:0;
+}
+ul {
+    margin:0; padding:0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: lightblue;
+    background-color: rgb(3, 23, 61);
+}
+nav li {
+    font-size: 1.2em;text-decoration: none;
+    display: inline-block;
+    width: calc(98%/3);
+    background-color:mediumblue;
+    text-align: center;
+    padding-top: .25em;
+    padding-bottom: .25em;
+}
+.title {
+    text-align: center;
+}
+.projects {
+    margin: 20px;
+}
+.projects li{
+    font-size: 1em;text-decoration: none;
+    display: inline-block;
+    width: 200px;
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: .25em;
+    padding-bottom: .25em;
+
+}
+
+.projectPictures {
+    width: 150px;
+    Height: 150px;
+}
