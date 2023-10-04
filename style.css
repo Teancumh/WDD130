@@ -13,8 +13,8 @@ a {
     text-decoration: none;
     color: white;
 }
-a:hover {
-    color: lightblue;
+nav a:hover{
+    color: rgb(0, 0, 0);
     background-color: rgb(10, 19, 34);
 }
 nav li {
@@ -25,6 +25,9 @@ nav li {
     text-align: center;
     padding-top: .25em;
     padding-bottom: .25em;
+}
+nav li:hover {
+    background-color: rgb(82, 114, 175);
 }
 .title {
     text-align: center;
@@ -42,6 +45,9 @@ nav li {
     padding-top: .25em;
     padding-bottom: .25em;
 
+}
+.projects li:hover{
+    background-color: rgb(54, 54, 54);
 }
 
 .projectPictures {
