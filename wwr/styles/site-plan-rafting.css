@@ -6,10 +6,10 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #23395B   ;
-  --secondary-color: #21A0A0 ;
-  --accent1-color: #1E3F20;
-  --accent2-color: #ABDF75;
+  --primary-color: #073881   ;
+  --secondary-color: #33b6b6 ;
+  --accent1-color: #5caaa4;
+  --accent2-color: #0f0258;
 
   /* change the values below to your chosen font(s) */
   --heading-font: Georgia;

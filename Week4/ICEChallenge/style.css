@@ -1,0 +1,20 @@
+html {
+    background-color: pink;
+    width: 33.33%;
+    margin: auto;
+}
+.title:hover {
+    color: black;
+}
+img {
+    width: 33.33%;
+    display: block;
+    margin: auto;
+}
+.center {
+    text-align: center;
+}
+
+.white {
+    color: white;
+}
