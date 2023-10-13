@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    
+}
+#background {
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+}
+.icons {
+    display: Flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 8em;
+    background-color: rgb(115,115,115);
+    padding: 3em;
+}
+.icons img {
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    max-width: 100%;
+}

@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 html {
     background-color: rgb(18, 18, 18);
 }
@@ -33,18 +37,16 @@ nav li:hover {
     text-align: center;
     color: white;
 }
-.projects {
-    margin: 4%;
-}
-.projects li{
+.projects li {
     font-size: 1em;text-decoration: none;
     display: inline-block;
     width: 200px;
     background-color: rgb(32, 32, 32);
     text-align: center;
-    padding-top: .25em;
-    padding-bottom: .25em;
-
+    padding: .75em;
+    margin-bottom: .75em;
+    margin-left: .25em;
+    margin-right: .25em;
 }
 .projects li:hover{
     background-color: rgb(54, 54, 54);
@@ -52,5 +54,5 @@ nav li:hover {
 
 .projectPictures {
     width: 150px;
-    Height: 150px;
+    height: 150px;
 }
